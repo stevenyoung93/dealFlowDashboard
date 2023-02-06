@@ -37,7 +37,6 @@ server = app.server
 app.layout = html.Div([
     # Header and selections for the interactive plots
     html.H1('Venture deals in 2022 (full March to November)'),   
-    html.H2('Hi Darby, welcome to my first webapp!'),
     html.Div([
         html.Div('''Select range of months to look into'''),
         html.Br(),
