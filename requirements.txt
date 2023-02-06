@@ -3,3 +3,4 @@ dash
 pandas
 numpy
 plotly
+dash_bootstrap_components
